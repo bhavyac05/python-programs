@@ -1,0 +1,4 @@
+a=tuple(input())
+t=(5,6,8)
+t+=a
+print(t)

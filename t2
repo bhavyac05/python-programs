@@ -1,0 +1,2 @@
+t=(5,'python',4.2,8,[2,3])
+print(t,type(t))

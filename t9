@@ -1,0 +1,6 @@
+t=(2,3,45,6,7)
+l=list(t)
+l.remove(45)
+t=tuple(l)
+print(t)
+		

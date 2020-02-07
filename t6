@@ -1,0 +1,3 @@
+t=('chicken','roti','dal')
+t.sort(key=len)
+print(t)
