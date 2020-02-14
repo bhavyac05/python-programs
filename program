@@ -1,7 +1,4 @@
-a=input('enter string')
-k=''
-for i in a:
-	if i not in k:
-		k+=i 
-		b=a.count(i)
-		print(i,':',b)
+t=(1,2,'akash',56)
+b=eval(input())
+a=b in t
+print(a)
